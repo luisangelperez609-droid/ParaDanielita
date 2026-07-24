@@ -443,7 +443,7 @@ const descripcionesCanciones = {
 
 1:{
 
-titulo:"Amtrak ❤️",
+titulo:"Amtrak ",
 
 texto:"Es viajar contigo,sentir que estamos siempre juntos aunque sea atraves de esta canción,quiero que nuestro amor sea perpetuo,que tomes mi mano y nunca la sueltes,un sentimiento puro y sincero,es la primera canción que quise dedicarte,y mi tristeza se va mientras tú te quedes.¿alguna vez encontraremos,una forma de hacer que nuestro tiempo dure para siempre?,porque empiezo a extrañarte."
 
@@ -453,7 +453,7 @@ texto:"Es viajar contigo,sentir que estamos siempre juntos aunque sea atraves de
 
 2:{
 
-titulo:"Canción 2",
+titulo:"Cama y mesa",
 
 texto:"Esta cancion representa ese deseo de estar en cada detalle de tu vida,ser indipensable en todos los aspectos,quiero ser todo para ti,es la necesidad y dependencia de tu amor,una metáfora de ser cada una de tus rutinas,ser el sol que te despierta o el alimento que te nutre,vivir los momentos intimos y dulces contigo,quiero ser la cosa buena,liberada o prohibida,ser todo en tu vida."
 
@@ -463,7 +463,7 @@ texto:"Esta cancion representa ese deseo de estar en cada detalle de tu vida,ser
 
 3:{
 
-titulo:"Canción 3",
+titulo:"Eres",
 
 texto:"Esta canción es mi declaración de amor incondicional,sin miedo,es mi amor inmenso,eres mi centro,cada palabra es para ti,eres la melodía que suena en mis silencios,eres mi prioridad y mi tiempo,eres lo que la gente promete cuando se quiere,soy el que te quiere como a nadie soy,y espero por tu amor hasta el final,lo que yo amo en este mundo eso eres."
 
@@ -473,7 +473,7 @@ texto:"Esta canción es mi declaración de amor incondicional,sin miedo,es mi am
 
 4:{
 
-titulo:"Canción 4",
+titulo:"Frances limon",
 
 texto:"Desde que llegaste,tu das color a todo mi mundo,y nada volvió a ser igual,tu lenguaje tierno y sincero de amor es único,hermoso y perfecto,eres mi refugio emocional,vuelves especial cada momento,solo quedaran nuestros cuerpos,dos respiraciones que se buscan,en la oscuridad te besare,me besaras,porque nos entendemos con el idioma del alma,y con esperanza,en un barco de papel yo volveré por ti miamor."
 
@@ -483,7 +483,7 @@ texto:"Desde que llegaste,tu das color a todo mi mundo,y nada volvió a ser igua
 
 5:{
 
-titulo:"Canción 5",
+titulo:"Lover is a day",
 
 texto:"Quería dedicarte esta canción porque siento que describe una parte de mí,es más difícil de explicar.Mi cabeza funciona algo parecido cuando alguien empieza a importarme.Te has convertido en uno de mis pensamientos más frecuentes.Tal vez aún no eres “todo” para mí,pero me importas de una manera que no esperaba,me preocupa cómo estás y sin pensar te vuelves mi prioridad,pero también están mis miedos.A veces sobrepienso,me pregunto si algún día dejarás de verme como ahora,miedo a arruinar esto o si habrá un momento en el que simplemente te canses de mí,son pensamientos que aparecen de la nada,y no es desconfianza hacia ti, es mi cabeza haciéndome creer cosas que probablemente ni siquiera existen.Y aun con todo eso,seguiría eligiendo quedarme, porque no importa si no estoy del todo bien,seguiré amándote,aun cuando sobrepienso,en si me amaras,pero no importa,me quedo contigo,con el dolor,con el miedo,miedo a que un dia te vallas y no estes a mi lado.Siento tranquilidad contigo.Mi familia me dice que estoy loco,mis amigos dicen que soy un degenerado,pero tu  dices que soy bueno.Mi mente dice cosas redundantes ¿amarás esa parte de mí?."
 
